@@ -1,4 +1,12 @@
+# matdisk2025-uts-kelompok3
+nama anggota kelompok : 
+1. Nabhan
+2. Fadhil
+
+
 branch utama adalah  "development"
+
+
 
 ---
 branc master dan backup hanya temp
